@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Analytic Study of Thermal-Rotational Coupling in Cryogenic Superconducting Toroids"
+authors:
+  - family-names: Berger
+    given-names: Teodor
+    affiliation: "Independent Researcher"
+date-released: 2025-05-10
+version: 1.0
+doi: "10.5281/zenodo.15380895"
+url: "https://github.com/DonMask/thermal-rotational-coupling-study"
+license: "MIT"
