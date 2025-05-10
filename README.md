@@ -19,3 +19,4 @@ This repository contains the LaTeX source code for the paper "Analytic Study of 
    ```bash
    git clone https://github.com/DonMask/thermal-rotational-coupling-study.git
    cd thermal-rotational-coupling-study
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15381092.svg)](https://doi.org/10.5281/zenodo.15381092)
