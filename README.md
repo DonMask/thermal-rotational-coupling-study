@@ -1,6 +1,6 @@
 # Analytic Study of Thermal-Rotational Coupling in Cryogenic Superconducting Toroids
 
-This repository contains the LaTeX source code for the paper "Analytic Study of Thermal-Rotational Coupling in Cryogenic Superconducting Toroids" by Teodor Berger, published in May 2025. The study investigates thermal-rotational coupling in a cryogenically cooled superconducting torus.
+This repository contains the LaTeX source code for the paper "Analytic Study of Thermal-Rotational Coupling in Cryogenic Superconducting Toroids" by Teodor Berger, published in May 2025. The study analytically investigates thermal-rotational coupling in a cryogenically cooled superconducting torus.
 
 ## Metadata
 - **Author**: Teodor Berger
@@ -9,17 +9,13 @@ This repository contains the LaTeX source code for the paper "Analytic Study of 
 - **Funding**: N/A
 
 ## Project Structure
-- `main.tex`: Main LaTeX file
+- `main.tex`: LaTeX file containing the complete paper
 - `references.bib`: Bibliography file
-- `chapters/`: Individual section files
-- `assets/`: Figures and tables (if applicable)
 
 ## How to Compile
 1. Install a LaTeX distribution (e.g., TeX Live, MiKTeX).
 2. Ensure required packages (`natbib`, `amsmath`, `amssymb`, `geometry`, `hyperref`, `setspace`) are installed.
-3. Compile `main.tex` using:
+3. Clone the repository:
    ```bash
-   pdflatex main.tex
-   bibtex main
-   pdflatex main.tex
-   pdflatex main.tex
+   git clone https://github.com/DonMask/thermal-rotational-coupling-study.git
+   cd thermal-rotational-coupling-study
